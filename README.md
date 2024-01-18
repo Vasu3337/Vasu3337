@@ -1,5 +1,5 @@
 <h1 align="center">I'm Vasudhevan</h1>
-<h3 align="center">A passionate IOS developer from Theni</h3>
+<h3 align="center">A passionate iOS developer from Theni</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu3337&label=Profile%20views&color=0e75b6&style=flat" alt="vasu3337" /> </p>
 
